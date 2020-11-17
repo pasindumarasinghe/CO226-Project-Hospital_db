@@ -1,0 +1,40 @@
+Report_ID,Doctor_ID,Patient_ID,Report_Desc
+R1,D1000,P0001,Needs Medication
+R2,D1001,P0002,Surgery 
+R3,D1002,P0003,Send to Ward
+R4,D1003,P0004,Needs Medication
+R5,D1004,P0005,Surgery 
+R6,D1005,P0006,Send to Ward
+R7,D1006,P0007,Needs Medication
+R8,D1007,P0008,Surgery 
+R9,D1008,P0009,Send to Ward
+R10,D1009,P0010,Needs Medication
+R11,D1010,P0011,Surgery 
+R12,D1011,P0012,Send to Ward
+R13,D1012,P0013,Needs Medication
+R14,D1013,P0014,Surgery 
+R15,D1014,P0015,Send to Ward
+R16,D1015,P0016,Needs Medication
+R17,D1016,P0017,Surgery 
+R18,D1017,P0018,Send to Ward
+R19,D1018,P0019,Needs Medication
+R20,D1019,P0020,Surgery 
+R21,D1020,P0021,Send to Ward
+R22,D1021,P0022,Needs Medication
+R23,D1022,P0023,Surgery 
+R24,D1023,P0024,Send to Ward
+R25,D1024,P0025,Needs Medication
+R26,D1025,P0026,Surgery 
+R27,D1000,P0027,Send to Ward
+R28,D1001,P0028,Needs Medication
+R29,D1002,P0029,Surgery 
+R30,D1003,P0001,Send to Ward
+R31,D1004,P0002,Needs Medication
+R32,D1005,P0003,Surgery 
+R33,D1006,P0004,Send to Ward
+R34,D1007,P0005,Needs Medication
+R35,D1008,P0006,Surgery 
+R36,D1009,P0007,Send to Ward
+R37,D1010,P0008,Needs Medication
+R38,D1011,P0009,Surgery 
+R39,D1012,P0010,Send to Ward

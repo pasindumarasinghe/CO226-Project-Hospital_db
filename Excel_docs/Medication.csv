@@ -1,0 +1,13 @@
+Report_ID,Medication_Desc,Charge
+R1,"Thrombolytics,Nitroglycerin,Morphine",4000
+R7,"Mucinex, Azithromycin, Doxycycline",5000
+R10,"Singulair,montelukast, prednisone,Fasenra",4000
+R13,"Hydroxine, Levocetirizine, Xyzal, Loratadine",4500
+R16,"metroformin, Januvia, Victoza",6500
+R19,"atorvastatin, Lipitor, Crestor, Simvastatin",5700
+R22,"carboplatin, Adriamyclin, Leukeran",8000
+R25,"Levofloxacin, clarithromycin, Levaquin",3800
+R28,"plavix, clopidogrel,activase",5000
+R31,"methotrexate, Enbrel. Humira",4950
+R34,"triamcinolone, clobetasol,fluocinonide",3900
+R37,"prednisone, budesonide,mesalamine",4300

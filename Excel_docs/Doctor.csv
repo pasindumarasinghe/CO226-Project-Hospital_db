@@ -1,0 +1,27 @@
+Doctor_ID,Doctor_NIC,Name,Gender,Phone_No,Specialization
+D1000,812345670v,Sunil Silva,M,771234567,Audiologist 
+D1001,812345671v,Kapila Kalhara,M,771234581,Allergist 
+D1002,812345672v,Alwis Alahakoon,M,771234568,Andrologists 
+D1003,812345673v,Gamindu Gamage,M,771234565,Anesthesiologist .
+D1004,812345674v,Tharindu Tharaka,M,771234562,Cardiologist 
+D1005,812345675v,Fazil Farook,M,771234562,Cardiovascular Surgeon
+D1006,812345676v,Basil Brian,M,771234563,Clinical Neurophysiologis
+D1007,812345677v,Sarath Lanka,M,771234569,Dentist
+D1008,812345678v,Panduka Perera,M,771234523,Dermatologist 
+D1009,812345679v,Anil Amarasiri,M,771234234,Emergency Doctor
+D1010,812345680v,Pasindu Cooray,M,771234232,Endocrinologist
+D1011,812345681v,Tharaki Medagedara,F,771234463,Epidemiologists
+D1012,812345682v,Kalpana Sulochana,F,771234543,ENT Specialist 
+D1013,812345683v,Sagara Lionel,M,771234567,Family Practitioner
+D1014,812345684v, Padma Fernando,F,771234567,Gastroenterologist
+D1015,812345685v,Sarala Thennekoon,F,771234522,Gynecologist
+D1016,812345686v,Manik Kavindi,F,771234533,General Psychiatrist
+D1017,812345687v,Saman DeSilva,M,771234544,Hematologist
+D1018,812345688v,Maya Kumari,F,771234567,Immunologist
+D1019,812345689v,Ranga Herath,M,771234567,Infectious Disease Specialist
+D1020,812345690v,Wimal Bandara,M,771234567,Internal Medicine Specialists
+D1021,812345691v,Siril Weligama,M,771234567,Internists
+D1022,812345692v,Kanchana Silva,F,771234567,Medical Geneticist
+D1023,812345693v,Thishan Namal,M,771234567,Microbiologist 
+D1024,812345694v,Kamal Soriya,M,771234567,Neonatologist
+D1025,812345695v,Chethana Kalpana,F,771234567,Nephrologists 
